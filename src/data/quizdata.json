@@ -1,0 +1,36 @@
+{
+    "quizTitle": "Fire Safety Quiz",
+    "questions": [
+      {
+        "question": "What should you do if you encounter a forest fire while hiking?",
+        "options": {
+          "A": "Immediately start running in the opposite direction.",
+          "B": "Find a nearby body of water and submerge yourself.",
+          "C": "Stay low to the ground and move to a cleared area, away from trees and dry grass.",
+          "D": "Attempt to put out the fire with any available materials."
+        },
+        "correctAnswer": "C"
+      },
+      {
+        "question": "How should you escape a building that is on fire?",
+        "options": {
+          "A": "Use the elevator to get downstairs quickly.",
+          "B": "Exit through the nearest window.",
+          "C": "Stay in your room and wait for help.",
+          "D": "Crawl low under smoke and exit the building via the nearest safe exit."
+        },
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What safety measures should you take to prevent wildfires in your area?",
+        "options": {
+          "A": "Conduct controlled burns regularly.",
+          "B": "Dispose of cigarette butts and matches in a safe container.",
+          "C": "Store firewood next to your house for easy access.",
+          "D": "Create a defensible space by clearing away dry vegetation from your home."
+        },
+        "correctAnswer": "D"
+      }
+    ]
+  }
+  
