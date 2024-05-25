@@ -1,0 +1,161 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "Scientists Discover New Species of Butterfly",
+        "description": "Researchers have identified a previously unknown species of butterfly in the Amazon rainforest.",
+        "publicationDate": "2023-10-05",
+        "photoUrl": "https://cdn.pixabay.com/photo/2017/03/14/07/12/helicopter-2142140_1280.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Tech Giant Launches Latest Smartphone Model",
+        "description": "The highly anticipated smartphone comes with advanced features and a sleek design.",
+        "publicationDate": "2023-10-07",
+        "photoUrl": "https://cdn.pixabay.com/photo/2020/01/01/04/11/fire-4732957_1280.jpg"
+      },
+      {
+        "id": 3,
+        "title": "World Leaders Gather for Climate Summit",
+        "description": "Global leaders are meeting to discuss urgent climate change issues and solutions.",
+        "publicationDate": "2023-10-09",
+        "photoUrl": "https://cdn.pixabay.com/photo/2015/07/29/19/11/blaze-866440_1280.jpg"
+      },
+      {
+        "id": 4,
+        "title": "New COVID-19 Variant Detected",
+        "description": "Health officials are monitoring a new variant of the coronavirus that has emerged in several countries.",
+        "publicationDate": "2023-10-12",
+        "photoUrl": "https://cdn.pixabay.com/photo/2021/03/27/14/41/war-6128646_1280.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Stock Market Hits Record High",
+        "description": "Investors celebrate as stock indices reach all-time highs in a bullish market.",
+        "publicationDate": "2023-10-15",
+        "photoUrl": "https://cdn.pixabay.com/photo/2020/12/03/01/38/firefighter-5799151_1280.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Celebrity Couple Announces Engagement",
+        "description": "Hollywood stars reveal their plans to tie the knot in a glamorous wedding.",
+        "publicationDate": "2023-10-18",
+        "photoUrl": "https://cdn.pixabay.com/photo/2023/01/29/08/30/photo-7752757_1280.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Scientists Make Breakthrough in Cancer Research",
+        "description": "A new study offers promising insights into potential treatments for cancer patients.",
+        "publicationDate": "2023-10-20",
+        "photoUrl": "https://cdn.pixabay.com/photo/2021/10/13/13/26/fire-6706674_1280.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Space Agency Launches Mission to Study Asteroid",
+        "description": "Researchers aim to learn more about the origins of the solar system by studying an asteroid up close.",
+        "publicationDate": "2023-10-22",
+        "photoUrl": "https://cdn.pixabay.com/photo/2022/03/22/17/42/wildfire-7085630_1280.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Local Community Raises Funds for Charity",
+        "description": "Residents come together to support a charitable cause, raising thousands of dollars for those in need.",
+        "publicationDate": "2023-10-25",
+        "photoUrl": "https://cdn.pixabay.com/photo/2016/03/16/21/08/forest-fire-1261752_1280.jpg"
+      }
+    ],
+    "markers": [
+      {
+        "id": 1,
+        "coordinates": [
+          49.8397,
+          40.3962
+        ],
+        "iconSrc": "https://cdn.pixabay.com/photo/2014/04/02/11/01/fire-305227_1280.png",
+        "data": {
+          "name": "Baku Yasamal",
+          "description": "This is Baku Yasamal."
+        },
+        "items": [
+          {
+            "id": 1,
+            "name": "Bottled Water",
+            "quantity": "1L"
+          },
+          {
+            "id": 2,
+            "name": "Non-perishable Food",
+            "quantity": "6kg"
+          },
+          {
+            "id": 3,
+            "name": "Blankets",
+            "quantity": "5"
+          }
+        ],
+        "contact": {
+          "name": "John Doe",
+          "email": "johndoe@example.com",
+          "phone": "123-456-7890"
+        }
+      },
+      {
+        "id": 2,
+        "coordinates": [
+          50.0825,
+          40.3848
+        ],
+        "iconSrc": "https://cdn.pixabay.com/photo/2014/04/02/11/01/fire-305227_1280.png",
+        "data": {
+          "name": "Baku Bineqedi",
+          "description": "This is Baku Bineqedi."
+        },
+        "items": [
+          {
+            "id": 4,
+            "name": "First Aid Kit",
+            "quantity": "1"
+          },
+          {
+            "id": 5,
+            "name": "Flashlight",
+            "quantity": "2"
+          },
+          {
+            "id": 6,
+            "name": "Batteries",
+            "quantity": "8"
+          }
+        ],
+        "contact": {
+          "name": "Jane Smith",
+          "email": "janesmith@example.com",
+          "phone": "987-654-3210"
+        }
+      }
+    ],
+    "users": [
+      {
+        "firstName": "sdfs",
+        "lastName": "asdf",
+        "email": "ehmed@compar.az",
+        "phoneNumber": "aafdsaf",
+        "password": "afds",
+        "userType": "Professional",
+        "profession": "fsadf",
+        "specialization": "dsfsad",
+        "id": 1
+      },
+      {
+        "firstName": "sfdsf",
+        "lastName": "sadfsadf",
+        "email": "sfads@compar.az",
+        "phoneNumber": "sdfasdf",
+        "password": "sdfasdf",
+        "userType": "Voluntary",
+        "profession": "",
+        "specialization": "",
+        "id": 2
+      }
+    ]
+  }
